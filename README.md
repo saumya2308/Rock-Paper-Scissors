@@ -1,6 +1,7 @@
 # Rock Paper Scissors
 
 A simple interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. Play against the computer and track your score!
+https://saumya2308.github.io/Rock-Paper-Scissors/
 
 ## Features
 
